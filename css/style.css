@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+/* fonts-------------- */
+
+.mulish {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* end fonts-------------- */
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+p {
+  font-size: 0.9rem;
+}
+
+.customer-say , .bg-blue-gradient {
+  background: rgb(103, 195, 243);
+  background: linear-gradient(
+    216deg,
+    rgba(103, 195, 243, 1) 6%,
+    rgba(90, 152, 242, 1) 100%
+  );
+}
